@@ -1,6 +1,6 @@
 
-#RetoChouca
-
+# RetoChouca
+```
 Se realiza el reto mediante Serenity BD+ screenplay con cucumber
 donde se desea automatizar la pagina https://utest.com/ realizando el registro
 de un usuario.
@@ -15,5 +15,6 @@ el actor debe darle click en siguiente donde toma la ubicacion en tiempo real, e
  si efectivamente queda confirmado el regisrto, pero la pagina en 
  algunas ocasiones genera captcha y no se puede seguir con el flujo de la
  automatizacion.
+```
  
 
